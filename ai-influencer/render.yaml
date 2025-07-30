@@ -1,0 +1,3 @@
+services:
+- type: web
+  startCommand: python main_agent_smart.py
